@@ -25,7 +25,7 @@ name = "O nama"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "services"
+name = "Usluge"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
