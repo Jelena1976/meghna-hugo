@@ -20,7 +20,7 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "about"
+URL = "o nama"
 name = "O nama"
 weight = 1
 [[menu.main]]
