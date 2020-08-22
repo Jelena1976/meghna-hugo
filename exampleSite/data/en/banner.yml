@@ -8,5 +8,5 @@ banner:
   content: Lek za svaku bolest nalazi se u prirodi
   button:
     enable: true
-    label: Explore Us
+    label: Kontakt
     link: "#services"
